@@ -4,7 +4,7 @@ Lane Detection System — ADAS Edition
 Real-time road lane detection with full ADAS-style dashboard HUD.
 Pipeline: Grayscale > Gaussian Blur > Canny > ROI > Hough > Average > Overlay
 
-Author: [Your Name]
+Author: Pranay Gupta
 Course: Computer Vision
 """
 
